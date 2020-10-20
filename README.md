@@ -20,7 +20,7 @@ Before following any installation steps, make sure you [install nodejs](https://
 To install LiveBot, just download as a zip file, which you can do by pressing the green button above that has `"Code"` written inside. Once you have downloaded and extracted the zip file, go into the directory with a command prompt or shell window. In the shell window, enter the command `npm install`. Make sure that the terminal window is running as administrator. Once this process is finished - it may take some time - type `npm test`. The LiveBot window will open and you're ready to go! You'll be greeted with a splash screen that asks you for your token and allows you to log in once or even by default!
 ### Easy (Windows Only)
 If you would like to just download and open an exe file, switch to the `executable` branch, then just download that zip file. If you don't know how to switch, click the dropdown menu left of the green `"Code"` button above the file list, it should by default say `master`.
-
+ 
 ## Some features:
 ### Token switcher (User menu)
 This box is how you log into a profile after already logging in. To log into a token by default, put it into this box then press the save button. Otherwise if you are just logging into a token just for a look, input the token into the box then press `enter`.<br>
